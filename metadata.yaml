@@ -1,0 +1,40 @@
+_repo: The-silica-gel-pseudomorph-and-other-stories_72231
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hart, Edward
+    birthdate: 1854
+    deathdate: 1931
+    gutenberg_agent_id: '56603'
+    url: http://www.gutenberg.org/2009/agents/56603
+description: ''
+gutenberg_issued: '2023-11-26'
+identifiers:
+  gutenberg: '72231'
+  lccn: '24025639'
+language: en
+pgterms:marc904: https://archive.org/details/silicagelpseudom00hart
+pgterms:marc905: 20220719072136hart
+pgterms:marc906: '1924'
+pgterms:marc907: us
+production_note: Kobus Meyer, Gísli Valgeirsson, Emmanuel Ackerman and the Online
+  Distributed Proofreading Team at https://www.pgdp.net (This file was produced from
+  images generously made available by The Internet Archive/American Libraries.)
+publication_note: '  $aEaston :$bThe Chemical Publishing Co., $c1924.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Humorous stories, American'
+- !lcsh 'Short stories, American'
+- !lcsh 'Tall tales'
+- !lcc 'PS'
+- GITenberg
+tableOfContents: The silica gel pseudomorph -- Peep-Chick Mountain -- Round Valley
+  -- Mont L'Hery -- Death Valley -- The professor's story -- My friend Zahn --Just
+  Samuel Jones -- Fat and lean -- Woozy -- The hermit -- Sandy's story --The hoboes
+  -- Jumping steel -- All the way from Melbourne -- A defense of the wealthy -- The
+  skin of the bear -- A visit from the Wileys -- In the days of the Roses -- The red
+  devil.
+title: The silica gel pseudomorph, and other stories
+url: http://www.gutenberg.org/ebooks/72231
